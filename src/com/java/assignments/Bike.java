@@ -5,7 +5,6 @@ public class Bike extends Vehicle{
 
   public Bike(int numberOfWheels, String model) {
     super(numberOfWheels);
-    this.model =  model;
+    this.model = model;
   }
-
 }
