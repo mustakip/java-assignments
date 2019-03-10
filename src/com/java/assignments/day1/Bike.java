@@ -1,6 +1,6 @@
-package com.java.assignments;
+package com.java.assignments.day1;
 
-public class Bike extends Vehicle{
+public class Bike extends Vehicle {
   private String model;
 
   public Bike(int numberOfWheels, String model) {

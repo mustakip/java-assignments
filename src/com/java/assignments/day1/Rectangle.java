@@ -1,5 +1,5 @@
 
-package com.java.assignments;
+package com.java.assignments.day1;
 public class Rectangle {
   private double width;
   private double length;

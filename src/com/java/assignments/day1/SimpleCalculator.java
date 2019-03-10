@@ -1,4 +1,4 @@
-package com.java.assignments;
+package com.java.assignments.day1;
 
 public class SimpleCalculator {
 
